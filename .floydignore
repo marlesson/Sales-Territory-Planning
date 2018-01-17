@@ -1,0 +1,24 @@
+
+# Directories and files to ignore when uploading code to floyd
+doc/
+notebook/
+input/test/
+output/
+input/
+.ipynb_checkpoints/
+__pycache__/
+.git
+.eggs
+eggs
+lib
+lib64
+parts
+sdist
+var
+*.pyc
+*.swp
+.DS_Store
+*.ipynb
+*.md
+*.html
+Makefile

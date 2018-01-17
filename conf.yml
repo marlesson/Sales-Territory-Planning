@@ -1,0 +1,15 @@
+# Problem Sales Territory Params
+#
+#
+problem:
+  cost_per_km: 1.78
+  max_clients: 9999
+  min_clients: 10
+  min_faturamento: 10000
+  fitness_weights:
+    balance_workload:  0.05
+    maximize_sustentability: 0.9
+    minimize_distance: 0.05
+
+
+
